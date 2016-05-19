@@ -32,7 +32,7 @@ All documentation is contained in the `/docs` directory in this repository.
 
 ## Building
 
-You will need to make sure that you have Go installed on your system and the containerd repository is cloned
+You will need to make sure that you have Go (and make) installed on your system and the containerd repository is cloned
 in your `$GOPATH`.  You will also need to make sure that you have all the dependencies cloned as well.
 Currently, contributing to containerd is not for the first time devs as many dependencies are not vendored and 
 work is being completed at a high rate.  
